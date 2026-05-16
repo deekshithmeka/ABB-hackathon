@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+websockets
+sqlalchemy
+aiosqlite
+apscheduler
+scikit-learn
+networkx
+numpy
+joblib
+python-dotenv
+httpx
+pydantic
